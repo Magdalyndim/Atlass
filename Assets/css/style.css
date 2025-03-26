@@ -102,7 +102,11 @@ img {
 #nav.nav-sticky {
     height: inherit;
     padding: 0;
+<<<<<<< HEAD
     background: #ffffff;
+=======
+    background: #2eceab;
+>>>>>>> d0d65e3a77d69b3281a8a61eb37f5fff490cc156
     transition: all .3s;
     border-bottom: none;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
