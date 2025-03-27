@@ -203,7 +203,7 @@ img {
     position: relative;
     padding: 180px 0 100px 0;
     text-align: center;
-    background: linear-gradient(hwb(184 38% 0% / 0.95), rgba(71, 230, 230, 0.95)), url(../img/header.jpg) no-repeat top center;
+    background: linear-gradient(hwb(184 38% 0% / 0.95), rgba(71, 230, 230, 0.95)), url(/Assets/images/header.jpg) no-repeat top center;
     background-size: cover;
 }
 
@@ -726,9 +726,9 @@ img {
 /**************************************/
 .contact {
     position: relative;
-    padding: 100px 0;
+    padding: 30px 0;
     text-align: center;
-    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(../img/contact.jpg) no-repeat top left;
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/Assets/images/contact.jpg) no-repeat top left;
 }
 
 .contact .contact-form {
